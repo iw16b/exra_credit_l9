@@ -7,17 +7,16 @@ Web Application Development
 (Month Day, Year)
 
 ### Student Name:  
-(First and Last Name)
+(Isaiah Walker Shelby)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In This assignment I created placeholders from API, retrieved API key)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://iw16b.github.io/exra_credit_l9/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create APIX account, API key.)
+2. (I learned how to modify seminole weather application.)
+3. (I learned about elements/nodes that have id, and key/value pair.)
 
