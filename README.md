@@ -4,7 +4,7 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 3 , 2018)
 
 ### Student Name:  
 (Isaiah Walker Shelby)
